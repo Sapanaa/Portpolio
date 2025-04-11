@@ -54,7 +54,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Sapanaa/-Portfolio.git
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
